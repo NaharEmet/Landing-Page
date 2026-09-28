@@ -2,6 +2,7 @@
 title: "How a Bad git reset Built an Agent Coordination System"
 description: "A lost four days of work sparked Steward, a coordination system for sharing context, tasks, and file locks across a fleet of AI agents."
 author: "Nahar Emet"
+github: "NaharEmet"
 date: "2026-09-29"
 tags: ["Agents", "Infra"]
 ---
@@ -49,3 +50,5 @@ This, plus the Meta Harness approach, means gathering an ungodly amount of telem
 Steward, which originated from the neurotic misbehaviour of an agent that belongs in `/dev/null`, has become my most-used application and a primitive I build around whenever I need to give a team of agents shared context and tools to work together.
 
 ![Steward agent coordination](/images/steward-agent-coordination.png)
+
+[More about Nahar Emet](https://naharemet.com) · [GitHub](https://github.com/NaharEmet)
